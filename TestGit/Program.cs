@@ -17,4 +17,9 @@
     {
         Console.WriteLine("This is a new method.");
     }
+
+    public static void AnotherNewMethod()
+    {
+        Console.WriteLine("This is another new method.");
+    }
 }
