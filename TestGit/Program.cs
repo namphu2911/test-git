@@ -12,4 +12,9 @@
 
         Console.WriteLine("2 + 3 = 5");
     }
+
+    public static void NewMethod()
+    {
+        Console.WriteLine("This is a new method.");
+    }
 }
